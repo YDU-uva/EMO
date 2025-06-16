@@ -182,16 +182,3 @@ If you use this code, please cite the original ARML paper:
   organization={PMLR}
 }
 ```
-
-## Extensibility
-
-EMO implementation provides good extensibility:
-
-- Adjustable number of episodic memory modules
-- Support for different uncertainty quantification methods
-- Integration with other meta-learning algorithms
-- Support for custom loss function weights
-
-## Contact
-
-For questions, please submit feedback through project issues. 
