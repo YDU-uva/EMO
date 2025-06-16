@@ -2,24 +2,8 @@
 
 ## Project Overview
 
-This project implements EMO (Episodic Memory Optimization) based on the ARML codebase. EMO is a novel meta-learning approach that leverages episodic memory mechanisms to enhance few-shot learning performance through memory-based optimization and uncertainty quantification.
+This project implements EMO (Episodic Memory Optimization) https://arxiv.org/abs/2306.05189 based on the ARML codebase. EMO is a novel meta-learning approach that leverages episodic memory mechanisms to enhance few-shot learning performance through memory-based optimization and uncertainty quantification.
 
-## Method Features
-
-### 1. Episodic Memory Mechanism
-- Maintains multiple episodic memory modules for different learning scenarios
-- Each memory module stores task-specific representations and weights
-- Aggregates predictions through memory-based ensemble learning
-
-### 2. Uncertainty Quantification
-- Computes prediction variance as uncertainty measure
-- Incorporates uncertainty into the loss function for optimization
-- Provides prediction confidence information
-
-### 3. Memory-Based Optimization
-- Optimizes episodic memory representations
-- Integrates task-specific weight modulation mechanisms
-- Improves meta-learning generalization capabilities
 
 ## Core Files
 
