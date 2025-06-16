@@ -173,13 +173,13 @@ EMO model provides improvements in the following aspects:
 If you use this code, please cite the original ARML paper:
 
 ```bibtex
-@inproceedings{
-  yao2020automated,
-  title={Automated Relational Meta-learning},
-  author={Huaxiu Yao and Xian Wu and Zhiqiang Tao and Yaliang Li and Bolin Ding and Ruirui Li and Zhenhui Li},
-  booktitle={International Conference on Learning Representations},
-  year={2020},
-  url={https://openreview.net/forum?id=rklp93EtwH}
+@inproceedings{du2023emo,
+  title={EMO: episodic memory optimization for few-shot meta-learning},
+  author={Du, Yingjun and Shen, Jiayi and Zhen, Xiantong and Snoek, Cees GM},
+  booktitle={Conference on Lifelong Learning Agents},
+  pages={1--20},
+  year={2023},
+  organization={PMLR}
 }
 ```
 
